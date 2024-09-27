@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :octocat: All the statistics
+### :octocat: Some statistics
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/marcelstoer?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/marcelstoer?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/marcelstoer?style=social)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
