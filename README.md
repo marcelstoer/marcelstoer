@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/jamesgeorge007/github-activity-readme/issues/117#issuecomment-2385745796) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#8](https://github.com/marcelstoer/junit-references/pull/8) in [marcelstoer/junit-references](https://github.com/marcelstoer/junit-references)
 <!--END_SECTION:activity-->
