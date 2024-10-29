@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/marcelstoer/junit-references/pull/8) in [marcelstoer/junit-references](https://github.com/marcelstoer/junit-references)
+1. 💪 Opened PR [#330](https://github.com/quarkiverse/quarkus-logging-json/pull/330) in [quarkiverse/quarkus-logging-json](https://github.com/quarkiverse/quarkus-logging-json)
 <!--END_SECTION:activity-->
