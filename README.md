@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#330](https://github.com/quarkiverse/quarkus-logging-json/pull/330) in [quarkiverse/quarkus-logging-json](https://github.com/quarkiverse/quarkus-logging-json)
+1. 💪 Opened PR [#1319](https://github.com/mockk/mockk/pull/1319) in [mockk/mockk](https://github.com/mockk/mockk)
 <!--END_SECTION:activity-->
