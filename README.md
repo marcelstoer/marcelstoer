@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1118](https://github.com/mockk/mockk/issues/1118#issuecomment-2458169958) in [mockk/mockk](https://github.com/mockk/mockk)
+1. 💪 Opened PR [#1247](https://github.com/smallrye/smallrye-config/pull/1247) in [smallrye/smallrye-config](https://github.com/smallrye/smallrye-config)
 <!--END_SECTION:activity-->
