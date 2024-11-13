@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1247](https://github.com/smallrye/smallrye-config/pull/1247) in [smallrye/smallrye-config](https://github.com/smallrye/smallrye-config)
+1. 💪 Opened PR [#6218](https://github.com/endoflife-date/endoflife.date/pull/6218) in [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
 <!--END_SECTION:activity-->
