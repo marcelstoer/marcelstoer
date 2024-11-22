@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6218](https://github.com/endoflife-date/endoflife.date/pull/6218) in [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
+1. 🗣 Commented on [#7178](https://github.com/jeremylong/DependencyCheck/issues/7178#issuecomment-2493127523) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 <!--END_SECTION:activity-->
