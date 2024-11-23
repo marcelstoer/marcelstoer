@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7180](https://github.com/jeremylong/DependencyCheck/issues/7180#issuecomment-2493955696) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+1. 💪 Opened PR [#226](https://github.com/jeremylong/Open-Vulnerability-Project/pull/226) in [jeremylong/Open-Vulnerability-Project](https://github.com/jeremylong/Open-Vulnerability-Project)
 <!--END_SECTION:activity-->
