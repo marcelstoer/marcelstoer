@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6306](https://github.com/jeremylong/DependencyCheck/issues/6306#issuecomment-2498028832) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+1. 🗣 Commented on [#6306](https://github.com/jeremylong/DependencyCheck/issues/6306#issuecomment-2498203274) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 <!--END_SECTION:activity-->
