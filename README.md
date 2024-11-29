@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#926](https://github.com/gitlab4j/gitlab4j-api/issues/926#issuecomment-2506782973) in [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api)
-<!--END_SECTION:activity-->
