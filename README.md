@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6464](https://github.com/jeremylong/DependencyCheck/issues/6464) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-2. ❗ Opened issue [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-3. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2520409474) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-4. 🔒 Closed issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-5. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2519595365) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-6. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2519414616) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-7. ❗ Opened issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-8. 🗣 Commented on [#15823](https://github.com/apache/kafka/pull/15823#issuecomment-2508168927) in [apache/kafka](https://github.com/apache/kafka)
-9. 🗣 Commented on [#781](https://github.com/confluentinc/kafka-connect-storage-cloud/issues/781#issuecomment-2508149439) in [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud)
-10. 🗣 Commented on [#15823](https://github.com/apache/kafka/pull/15823#issuecomment-2508069034) in [apache/kafka](https://github.com/apache/kafka)
+1. 💪 Opened PR [#3](https://github.com/dependency-check/DependencyCheck_Builder/pull/3) in [dependency-check/DependencyCheck_Builder](https://github.com/dependency-check/DependencyCheck_Builder)
+2. 🔒 Closed issue [#6464](https://github.com/jeremylong/DependencyCheck/issues/6464) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+3. ❗ Opened issue [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+4. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2520409474) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+5. 🔒 Closed issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+6. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2519595365) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+7. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2519414616) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+8. ❗ Opened issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+9. 🗣 Commented on [#15823](https://github.com/apache/kafka/pull/15823#issuecomment-2508168927) in [apache/kafka](https://github.com/apache/kafka)
+10. 🗣 Commented on [#781](https://github.com/confluentinc/kafka-connect-storage-cloud/issues/781#issuecomment-2508149439) in [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud)
 <!--END_SECTION:activity-->
 
