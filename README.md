@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526189984) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-2. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526187295) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-3. 🗣 Commented on [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231#issuecomment-2525610125) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-4. 🔒 Closed issue [#6968](https://github.com/jeremylong/DependencyCheck/issues/6968) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-5. 💪 Opened PR [#3](https://github.com/dependency-check/DependencyCheck_Builder/pull/3) in [dependency-check/DependencyCheck_Builder](https://github.com/dependency-check/DependencyCheck_Builder)
-6. 🔒 Closed issue [#6464](https://github.com/jeremylong/DependencyCheck/issues/6464) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-7. ❗ Opened issue [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-8. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2520409474) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-9. 🔒 Closed issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-10. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2519595365) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+1. 🗣 Commented on [#3666](https://github.com/nodemcu/nodemcu-firmware/pull/3666#issuecomment-2527234743) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+2. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526189984) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+3. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526187295) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+4. 🗣 Commented on [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231#issuecomment-2525610125) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+5. 🔒 Closed issue [#6968](https://github.com/jeremylong/DependencyCheck/issues/6968) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+6. 💪 Opened PR [#3](https://github.com/dependency-check/DependencyCheck_Builder/pull/3) in [dependency-check/DependencyCheck_Builder](https://github.com/dependency-check/DependencyCheck_Builder)
+7. 🔒 Closed issue [#6464](https://github.com/jeremylong/DependencyCheck/issues/6464) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+8. ❗ Opened issue [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+9. 🗣 Commented on [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227#issuecomment-2520409474) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+10. 🔒 Closed issue [#7227](https://github.com/jeremylong/DependencyCheck/issues/7227) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 <!--END_SECTION:activity-->
 
