@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-2. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-3. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2531212604) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-4. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2528491243) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-5. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2527809004) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-6. 🗣 Commented on [#3669](https://github.com/nodemcu/nodemcu-firmware/issues/3669#issuecomment-2527247320) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
-7. 🗣 Commented on [#3666](https://github.com/nodemcu/nodemcu-firmware/pull/3666#issuecomment-2527234743) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
-8. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526189984) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-9. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526187295) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-10. 🗣 Commented on [#7231](https://github.com/jeremylong/DependencyCheck/issues/7231#issuecomment-2525610125) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+1. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534491545) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+2. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534155497) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+3. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+4. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+5. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2531212604) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+6. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2528491243) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+7. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2527809004) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+8. 🗣 Commented on [#3669](https://github.com/nodemcu/nodemcu-firmware/issues/3669#issuecomment-2527247320) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+9. 🗣 Commented on [#3666](https://github.com/nodemcu/nodemcu-firmware/pull/3666#issuecomment-2527234743) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+10. 🗣 Commented on [#5748](https://github.com/jeremylong/DependencyCheck/issues/5748#issuecomment-2526189984) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 <!--END_SECTION:activity-->
 
