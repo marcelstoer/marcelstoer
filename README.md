@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535761159) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-2. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535197094) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-3. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534491545) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-4. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534155497) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-5. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-6. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-7. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2531212604) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-8. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2528491243) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-9. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2527809004) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-10. 🗣 Commented on [#3669](https://github.com/nodemcu/nodemcu-firmware/issues/3669#issuecomment-2527247320) in [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware)
+1. 🗣 Commented on [#43](https://github.com/toblum/ESPTeamsPresence/issues/43#issuecomment-2537209161) in [toblum/ESPTeamsPresence](https://github.com/toblum/ESPTeamsPresence)
+2. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535761159) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+3. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535197094) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+4. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534491545) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+5. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534155497) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+6. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+7. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+8. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2531212604) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+9. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2528491243) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+10. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2527809004) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
 <!--END_SECTION:activity-->
 
