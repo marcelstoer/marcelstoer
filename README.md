@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10081](https://github.com/oracle/graal/issues/10081#issuecomment-2540077458) in [oracle/graal](https://github.com/oracle/graal)
-2. 🗣 Commented on [#43](https://github.com/toblum/ESPTeamsPresence/issues/43#issuecomment-2537209161) in [toblum/ESPTeamsPresence](https://github.com/toblum/ESPTeamsPresence)
-3. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535761159) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-4. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535197094) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-5. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534491545) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-6. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534155497) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-7. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-8. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-9. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2531212604) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
-10. 🗣 Commented on [#7235](https://github.com/jeremylong/DependencyCheck/issues/7235#issuecomment-2528491243) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+1. 🗣 Commented on [#99](https://github.com/marcelstoer/nodemcu-pyflasher/issues/99#issuecomment-2544754217) in [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher)
+2. 🔒 Closed issue [#99](https://github.com/marcelstoer/nodemcu-pyflasher/issues/99) in [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher)
+3. 🗣 Commented on [#10081](https://github.com/oracle/graal/issues/10081#issuecomment-2540077458) in [oracle/graal](https://github.com/oracle/graal)
+4. 🗣 Commented on [#43](https://github.com/toblum/ESPTeamsPresence/issues/43#issuecomment-2537209161) in [toblum/ESPTeamsPresence](https://github.com/toblum/ESPTeamsPresence)
+5. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535761159) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+6. 🗣 Commented on [#4533](https://github.com/jeremylong/DependencyCheck/issues/4533#issuecomment-2535197094) in [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)
+7. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534491545) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+8. 🗣 Commented on [#45028](https://github.com/quarkusio/quarkus/pull/45028#issuecomment-2534155497) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+9. 🗣 Commented on [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621#issuecomment-2532183114) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+10. ❗ Opened issue [#9621](https://github.com/testcontainers/testcontainers-java/issues/9621) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
 <!--END_SECTION:activity-->
 
