@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcelstoer)](https://github.com/marcelstoer)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/frightanic?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/marcelstoer?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/marcelstoer?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/marcelstoer?style=social)
