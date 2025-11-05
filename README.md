@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2359](https://github.com/apache/shiro/issues/2359) in [apache/shiro](https://github.com/apache/shiro)
-2. 🗣 Commented on [#2281](https://github.com/apache/tika/pull/2281#issuecomment-3425003702) in [apache/tika](https://github.com/apache/tika)
-3. 🗣 Commented on [#7999](https://github.com/dependency-check/DependencyCheck/pull/7999#issuecomment-3360978771) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
+1. 🗣 Commented on [#2359](https://github.com/apache/shiro/issues/2359#issuecomment-3489924546) in [apache/shiro](https://github.com/apache/shiro)
+2. ❗ Opened issue [#2359](https://github.com/apache/shiro/issues/2359) in [apache/shiro](https://github.com/apache/shiro)
+3. 🗣 Commented on [#2281](https://github.com/apache/tika/pull/2281#issuecomment-3425003702) in [apache/tika](https://github.com/apache/tika)
 4. 💪 Opened PR [#2](undefined) in [ti8m/elements](https://github.com/ti8m/elements)
 5. ❌ Labeled PR [#1](undefined) in [ti8m/json-schema-viewer](https://github.com/ti8m/json-schema-viewer)
 6. 💪 Opened PR [#1](undefined) in [ti8m/json-schema-viewer](https://github.com/ti8m/json-schema-viewer)
