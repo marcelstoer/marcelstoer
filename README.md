@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2359](https://github.com/apache/shiro/issues/2359#issuecomment-3489924546) in [apache/shiro](https://github.com/apache/shiro)
-2. ❗ Opened issue [#2359](https://github.com/apache/shiro/issues/2359) in [apache/shiro](https://github.com/apache/shiro)
-3. 🗣 Commented on [#2281](https://github.com/apache/tika/pull/2281#issuecomment-3425003702) in [apache/tika](https://github.com/apache/tika)
-4. 💪 Opened PR [#2](undefined) in [ti8m/elements](https://github.com/ti8m/elements)
-5. ❌ Labeled PR [#1](undefined) in [ti8m/json-schema-viewer](https://github.com/ti8m/json-schema-viewer)
+1.  Labeled issue [#11473](https://github.com/anthropics/claude-code/issues/11473) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. ❗ Opened issue [#11473](https://github.com/anthropics/claude-code/issues/11473) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. 🗣 Commented on [#2359](https://github.com/apache/shiro/issues/2359#issuecomment-3489924546) in [apache/shiro](https://github.com/apache/shiro)
+4. ❗ Opened issue [#2359](https://github.com/apache/shiro/issues/2359) in [apache/shiro](https://github.com/apache/shiro)
+5. 🗣 Commented on [#2281](https://github.com/apache/tika/pull/2281#issuecomment-3425003702) in [apache/tika](https://github.com/apache/tika)
 6. 💪 Opened PR [#1](undefined) in [ti8m/json-schema-viewer](https://github.com/ti8m/json-schema-viewer)
 7.  Labeled issue [#7988](https://github.com/dependency-check/DependencyCheck/issues/7988) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
 8. ❗ Opened issue [#7988](https://github.com/dependency-check/DependencyCheck/issues/7988) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
