@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7048](https://github.com/github/advisory-database/pull/7048) in [github/advisory-database](https://github.com/github/advisory-database)
-2. 🗣 Commented on [#7600](https://github.com/anthropics/claude-code/issues/7600#issuecomment-3870891711) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860499630) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-4. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860195123) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-5. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860064791) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
-6. ❌ Closed PR [#310](https://github.com/ThingPulse/esp8266-oled-ssd1306/pull/310) in [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
-7. 🔒 Closed issue [#426](https://github.com/ThingPulse/esp8266-oled-ssd1306/issues/426) in [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
+1. ❌ Closed PR [#7048](https://github.com/github/advisory-database/pull/7048) in [github/advisory-database](https://github.com/github/advisory-database)
+2. 💪 Opened PR [#7048](https://github.com/github/advisory-database/pull/7048) in [github/advisory-database](https://github.com/github/advisory-database)
+3. 🗣 Commented on [#7600](https://github.com/anthropics/claude-code/issues/7600#issuecomment-3870891711) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860499630) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+5. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860195123) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+6. 🗣 Commented on [#51733](https://github.com/quarkusio/quarkus/pull/51733#issuecomment-3860064791) in [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+7. ❌ Closed PR [#310](https://github.com/ThingPulse/esp8266-oled-ssd1306/pull/310) in [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 8. 🗣 Commented on [#426](https://github.com/ThingPulse/esp8266-oled-ssd1306/issues/426#issuecomment-3726144954) in [ThingPulse/esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 9. 🔒 Closed issue [#1](https://github.com/marcelstoer/esp-wifi-rickroller/issues/1) in [marcelstoer/esp-wifi-rickroller](https://github.com/marcelstoer/esp-wifi-rickroller)
 10. 🗣 Commented on [#7600](https://github.com/anthropics/claude-code/issues/7600#issuecomment-3717590358) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
