@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![My GitHub stats](./profile/stats.svg)
 ![Top languages](./profile/top-langs.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcelstoer)](https://github.com/marcelstoer)
+![trophy](./profile/trophy.svg)
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/marcelstoer?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/marcelstoer?style=social)
