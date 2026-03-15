@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "6 */3 * * *" # At minute 6 past every 3rd hour.
+    - cron: "5 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -44,7 +44,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}          
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
