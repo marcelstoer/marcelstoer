@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7569](https://github.com/dependency-check/DependencyCheck/issues/7569#issuecomment-6132206679) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-2. 🔒 Closed issue [#92](https://github.com/marcelstoer/nodemcu-pyflasher/issues/92) in [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher)
-3. 🗣 Commented on [#7569](https://github.com/dependency-check/DependencyCheck/issues/7569#issuecomment-6129122130) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
-4. 🎉 Merged PR [#9214](https://github.com/github/advisory-database/pull/9214) in [github/advisory-database](https://github.com/github/advisory-database)
-5. 🗣 Commented on [#1335](https://github.com/MacDownApp/macdown/issues/1335#issuecomment-5978800775) in [MacDownApp/macdown](https://github.com/MacDownApp/macdown)
-6. 💪 Opened PR [#5](https://github.com/ti8m/elements/pull/5) in [ti8m/elements](https://github.com/ti8m/elements)
-7. 🔒 Closed issue [#108](https://github.com/marcelstoer/nodemcu-pyflasher/issues/108) in [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher)
+1. 🎉 Merged PR [#1300](https://github.com/mc1arke/sonarqube-community-branch-plugin/pull/1300) in [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin)
+2. 🗣 Commented on [#7569](https://github.com/dependency-check/DependencyCheck/issues/7569#issuecomment-6132206679) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
+3. 🔒 Closed issue [#92](https://github.com/marcelstoer/nodemcu-pyflasher/issues/92) in [marcelstoer/nodemcu-pyflasher](https://github.com/marcelstoer/nodemcu-pyflasher)
+4. 🗣 Commented on [#7569](https://github.com/dependency-check/DependencyCheck/issues/7569#issuecomment-6129122130) in [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)
+5. 🎉 Merged PR [#9214](https://github.com/github/advisory-database/pull/9214) in [github/advisory-database](https://github.com/github/advisory-database)
+6. 🗣 Commented on [#1335](https://github.com/MacDownApp/macdown/issues/1335#issuecomment-5978800775) in [MacDownApp/macdown](https://github.com/MacDownApp/macdown)
+7. 💪 Opened PR [#5](https://github.com/ti8m/elements/pull/5) in [ti8m/elements](https://github.com/ti8m/elements)
 8. 🗣 Commented on [#1292](https://github.com/mc1arke/sonarqube-community-branch-plugin/issues/1292#issuecomment-5763660582) in [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin)
 9. 🗣 Commented on [#733](https://github.com/xerial/snappy-java/pull/733#issuecomment-5693396500) in [xerial/snappy-java](https://github.com/xerial/snappy-java)
 10. 💪 Opened PR [#1300](https://github.com/mc1arke/sonarqube-community-branch-plugin/pull/1300) in [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin)
